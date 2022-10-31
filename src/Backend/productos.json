@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1",
+        "stock": "1",
+        "categoria":"hogar",
+        "nombre": "Seguridad Camaras Hogar Full",
+        "precio": "USD 200",
+        "img": "https://miro.medium.com/max/720/0*CrRJ8wEy1bAwmdNa.jpg",
+        "reseña": "Paquete que incluye instalacion de alarmas y camaras para el monitoreo constante de tu hogar."
+        
+    },
+    {
+        "id": "2",
+        "stock": "1",
+        "categoria":"hogar",
+        "nombre": "Ciberseguridad Hogar Full",
+        "precio": "USD 250",
+        "img": "https://latam.kaspersky.com/content/es-mx/images/repository/isc/2020/cyber-security-article.jpg",
+        "reseña": "Este paquete incluye un antivirus y sistemas de ciberseguridad para proteger todos esos datos de nuestros seras mas queridos"
+    },
+    {
+        "id": "3",
+        "stock": "1",
+        "categoria":"empresa",
+        "nombre": "Ciberseguridad Empresarial Full",
+        "precio": "USD 500",
+        "img": "https://cdn.t21.pe/wp-content/uploads/2022/03/ntt-data-cibervigilancia-regional.jpg",
+        "reseña": "Lleva la seguridad a otro nivel implementando lo ultimo en tecnologia de seguridad empresarial para tu negocio"
+    }
+  
+]
